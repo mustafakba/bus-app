@@ -124,6 +124,114 @@
         {"seat_id": "B5", "gender": "female", "selected": true},
         {"seat_id": "B6", "gender": "female", "selected": true}
       ]
+    },
+    {
+      "trip_number": "005",
+      "departure_location": "Ankara",
+      "arrival_location": "Antalya",
+      "trip_date": "19/01/2024",
+      "time" :  "12:45",
+      "trip_details": {
+        "bus_brand": "Scania",
+        "brand_name": "Sunshine Express",
+        "number_of_breaks": 1,
+        "trip_price": 500
+      },
+      "seat_arrangement": [
+        {"seat_id": "A1", "gender": "", "selected": false},
+        {"seat_id": "A2", "gender": "", "selected": false},
+        {"seat_id": "A3", "gender": "", "selected": false},
+        {"seat_id": "A4", "gender": "", "selected": false},
+        {"seat_id": "A5", "gender": "", "selected": false},
+        {"seat_id": "A6", "gender": "", "selected": false},
+        {"seat_id": "B1", "gender": "female", "selected": true},
+        {"seat_id": "B2", "gender": "female", "selected": true},
+        {"seat_id": "B3", "gender": "male", "selected": true},
+        {"seat_id": "B4", "gender": "male", "selected": true},
+        {"seat_id": "B5", "gender": "female", "selected": true},
+        {"seat_id": "B6", "gender": "female", "selected": true}
+      ]
+    },
+    {
+      "trip_number": "005",
+      "departure_location": "Ankara",
+      "arrival_location": "Antalya",
+      "trip_date": "19/02/2024",
+      "time" :  "12:45",
+      "trip_details": {
+        "bus_brand": "Scania",
+        "brand_name": "Sunshine Express",
+        "number_of_breaks": 1,
+        "trip_price": 500
+      },
+      "seat_arrangement": [
+        {"seat_id": "A1", "gender": "", "selected": false},
+        {"seat_id": "A2", "gender": "", "selected": false},
+        {"seat_id": "A3", "gender": "", "selected": false},
+        {"seat_id": "A4", "gender": "", "selected": false},
+        {"seat_id": "A5", "gender": "", "selected": false},
+        {"seat_id": "A6", "gender": "", "selected": false},
+        {"seat_id": "B1", "gender": "female", "selected": true},
+        {"seat_id": "B2", "gender": "female", "selected": true},
+        {"seat_id": "B3", "gender": "male", "selected": true},
+        {"seat_id": "B4", "gender": "male", "selected": true},
+        {"seat_id": "B5", "gender": "female", "selected": true},
+        {"seat_id": "B6", "gender": "female", "selected": true}
+      ]
+    },
+    {
+      "trip_number": "005",
+      "departure_location": "Ankara",
+      "arrival_location": "Antalya",
+      "trip_date": "19/03/2024",
+      "time" :  "12:45",
+      "trip_details": {
+        "bus_brand": "Scania",
+        "brand_name": "Sunshine Express",
+        "number_of_breaks": 1,
+        "trip_price": 500
+      },
+      "seat_arrangement": [
+        {"seat_id": "A1", "gender": "", "selected": false},
+        {"seat_id": "A2", "gender": "", "selected": false},
+        {"seat_id": "A3", "gender": "", "selected": false},
+        {"seat_id": "A4", "gender": "", "selected": false},
+        {"seat_id": "A5", "gender": "", "selected": false},
+        {"seat_id": "A6", "gender": "", "selected": false},
+        {"seat_id": "B1", "gender": "female", "selected": true},
+        {"seat_id": "B2", "gender": "female", "selected": true},
+        {"seat_id": "B3", "gender": "male", "selected": true},
+        {"seat_id": "B4", "gender": "male", "selected": true},
+        {"seat_id": "B5", "gender": "female", "selected": true},
+        {"seat_id": "B6", "gender": "female", "selected": true}
+      ]
+    },
+    {
+      "trip_number": "005",
+      "departure_location": "Antalya",
+      "arrival_location": "Ankara",
+      "trip_date": "19/03/2024",
+      "time" :  "12:45",
+      "trip_details": {
+        "bus_brand": "Scania",
+        "brand_name": "Sunshine Express",
+        "number_of_breaks": 1,
+        "trip_price": 500
+      },
+      "seat_arrangement": [
+        {"seat_id": "A1", "gender": "", "selected": false},
+        {"seat_id": "A2", "gender": "", "selected": false},
+        {"seat_id": "A3", "gender": "", "selected": false},
+        {"seat_id": "A4", "gender": "", "selected": false},
+        {"seat_id": "A5", "gender": "", "selected": false},
+        {"seat_id": "A6", "gender": "", "selected": false},
+        {"seat_id": "B1", "gender": "female", "selected": true},
+        {"seat_id": "B2", "gender": "female", "selected": true},
+        {"seat_id": "B3", "gender": "male", "selected": true},
+        {"seat_id": "B4", "gender": "male", "selected": true},
+        {"seat_id": "B5", "gender": "female", "selected": true},
+        {"seat_id": "B6", "gender": "female", "selected": true}
+      ]
     }
   ]
 }
